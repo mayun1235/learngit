@@ -18,4 +18,7 @@ hajdhdadldallltext3
 
 ajdhakdhueiweopqoissuse01
 
+<<<<<<< HEAD
+>>>>>>> b69ec8d (fix bug 1)
+=======
 >>>>>>> b69ec8d (fix bug 1)
