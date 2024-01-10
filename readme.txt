@@ -11,3 +11,11 @@ hakjdhakdhahdlla
 
 kkkadkadlal999
 
+<<<<<<< HEAD
+=======
+
+hajdhdadldallltext3
+
+ajdhakdhueiweopqoissuse01
+
+>>>>>>> b69ec8d (fix bug 1)
